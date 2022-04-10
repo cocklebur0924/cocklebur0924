@@ -7,13 +7,18 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Ocean University of China.
 - 🌱 I’m currently learning Magnetotelluric Inversion.
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
 - 📫 How to reach me: 1138413015@qq.com
-- 😄 Pronouns: INFJ
-- ⚡ 我的博客地址: https://cocklebur0924.github.io
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
+
 - 🔭 I’m currently working on Ocean University of China.
 - 🌱 I’m currently learning Magnetotelluric Inversion.
 - 📫 How to reach me: 1138413015@qq.com
 - 😄 Pronouns: INFJ
 - ⚡ 我的博客地址: https://cocklebur0924.github.io
+
 ![](https://github-readme-stats.vercel.app/api?username=cocklebur0924)
