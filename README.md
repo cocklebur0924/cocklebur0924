@@ -1,5 +1,7 @@
 ### Hi there 👋 My name is Cocklebur.
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=cocklebur0924&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 <!--
 **cocklebur0924/cocklebur0924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +20,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Ocean University of China.
 - 🌱 I’m currently learning Magnetotelluric Inversion.
 - 📫 How to reach me: 1138413015@qq.com
-- 😄 Pronouns: INFJ
+- 😄 MBTI: INFJ
 - ⚡ 我的博客地址: https://cocklebur0924.github.io
 
-![](https://github-readme-stats.vercel.app/api?username=cocklebur0924)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=cocklebur0924) -->
+
+
