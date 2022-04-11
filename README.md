@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Ocean University of China.
+- 🔭 I’m currently studying on Ocean University of China.
 - 🌱 I’m currently learning Magnetotelluric Inversion.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
