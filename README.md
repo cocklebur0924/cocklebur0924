@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Ocean University of China.
+- 🔭 I’m currently studying on Ocean University of China.
 - 🌱 I’m currently learning Magnetotelluric Inversion.
 - 📫 How to reach me: 1138413015@qq.com
 - 😄 MBTI: INFJ
