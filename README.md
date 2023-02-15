@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 - 🔭 I am an employee of Geophysical Research & Development Center(ChengDu), BGP INC., CNPC.
 - 🔭 I graduated from the Ocean University of China in 2022. 
-- 🌱 I’m currently learning FWI.
+- 🌱 I’m currently learning FWI/Magnetotelluric Inversion.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently studying on Ocean University of China.
-- 🌱 I’m currently learning Magnetotelluric Inversion.
+- 🔭 I’m currently working on Geophysical Research & Development Center(ChengDu), BGP INC., CNPC.
+- 🌱 I’m currently learning FWI.
 - 📫 How to reach me: 1138413015@qq.com
 - 😄 MBTI: INFJ
 - ⚡ 我的博客地址: https://cocklebur0924.github.io
