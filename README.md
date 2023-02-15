@@ -7,8 +7,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studying on Ocean University of China.
-- 🌱 I’m currently learning Magnetotelluric Inversion.
+- 🔭 I am an employee of Geophysical Research & Development Center(ChengDu), BGP INC., CNPC.
+- 🔭 I graduated from the Ocean University of China in 2022. 
+- 🌱 I’m currently learning FWI.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
