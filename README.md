@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Geophysical Research & Development Center(ChengDu), BGP INC., CNPC.
-- 🌱 I’m currently learning FWI.
+- 🌱 I’m currently learning DLVMB.
 - 📫 How to reach me: 1138413015@qq.com
 - 😄 MBTI: INFJ
 - ⚡ 我的博客地址: https://cocklebur0924.github.io
